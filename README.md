@@ -429,12 +429,6 @@ DELETE FROM events;
 
 ## Development
 
-### Running Tests
-
-```bash
-go test ./...
-```
-
 ### Code Formatting
 
 ```bash
