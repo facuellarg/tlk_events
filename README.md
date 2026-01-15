@@ -48,8 +48,8 @@ A RESTful API for managing events built with Go, Echo framework, and SQLite data
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd events-api
+git clone https://github.com/facuellarg/tlk_events
+cd tlk_events
 ```
 
 2. Install dependencies:
